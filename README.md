@@ -3,5 +3,7 @@ Weekend project to develop a desktop paint clone with basic painting functionali
 
 Features include:
 - Dynamic paint brushes depending on mouse velocity
+- Sliders to vary brush size as well as sensitivity to mouse speed
 - Ability to use an eraser and clear canvas
-- Ability to select 3 colours
+- Ability to select multiple colours
+- Fill tool using flood fill algorithms
